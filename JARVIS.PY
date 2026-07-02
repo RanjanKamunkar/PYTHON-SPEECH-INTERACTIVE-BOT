@@ -71,6 +71,11 @@ while True:
                 speak("Opening google")
                 webbrowser.open("https://google.com")
 
+            elif "show me weather" in command.lower():
+                speak("showing todays weather")
+                webbrowser.open("https://www.google.com/search?q=weather+&sca_esv=c20455dc7eca16bd&rlz=1C1JJTC_en-GBIN1187IN1187&sxsrf=APpeQnuEFhjHyDEsUr_cxQmgCIAuEggHsA%3A1783004397509&ei=7XxGaoXLHuCgnesP-_iKwQI&biw=1536&bih=872&ved=0ahUKEwjF9fv9oLSVAxVgUGcHHXu8IigQ4dUDCBI&uact=5&oq=weather+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCHdlYXRoZXIgMgQQIxgnMgoQABiABBiKBRhDMgsQABiABBixAxiDATILEAAYgAQYsQMYgwEyChAAGIAEGIoFGEMyCxAAGIAEGLEDGIMBMgsQABiABBixAxiDATIKEAAYgAQYigUYQzIOEAAYgAQYigUYsQMYgwEyBRAAGIAESNgbUNAQWK0WcAF4AZABAJgBrQKgAf8FqgEFMi0yLjG4AQPIAQD4AQGYAgSgApEGwgIKEAAYRxjWBBiwA8ICDRAAGIAEGIoFGEMYsAPCAg0QABiABBiKBRhDGLEDwgIIEAAYgAQYsQPCAhAQABiABBiKBRhDGLEDGIMBmAMAiAYBkAYKkgcHMS4wLjIuMaAHoRGyBwUyLTIuMbgHiwbCBwUwLjIuMsgHDIAIAQ&sclient=gws-wiz-serp&zx=1783004410785")
+
+
             elif "show me Nifty" in command.lower():
                 speak("showing details of nifty")
                 webbrowser.open("https://www.google.com/search?q=nifty&rlz=1C1VDKB_enIN1187IN1187&oq=nifty&gs_lcrp=EgZjaHJvbWUyFAgAEEUYORhDGIMBGLEDGIAEGIoFMhIIARAAGEMYgwEYsQMYgAQYigUyEggCEAAYQxiDARixAxiABBiKBTINCAMQABiDARixAxiABDIMCAQQABhDGIAEGIoFMhIIBRAAGEMYgwEYsQMYgAQYigUyDQgGEAAYgwEYsQMYgAQyDQgHEAAYgwEYsQMYgAQyCggIEAAYsQMYgAQyEAgJEAAYgwEYsQMYgAQYigXSAQk2NDM2ajBqMTWoAgywAgHxBUJMwmi-lzBz&sourceid=chrome&ie=UTF-8")
