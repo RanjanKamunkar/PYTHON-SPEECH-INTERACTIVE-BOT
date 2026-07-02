@@ -1,5 +1,5 @@
 # PYTHON-SPEECH-INTERACTIVE-BOT
-This is our first python project based on speech recognition and analysing chat bot.
+This is our first python project based on speech recognition and analysation modules.
 # Python Speech Interactive Bot
 
 A simple voice-controlled assistant built using Python. The bot listens for voice commands and performs basic tasks such as opening websites, telling the current time, playing a song, and searching the web.
