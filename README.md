@@ -32,9 +32,13 @@ python JARVIS.py
 ## Team
 
 Harsh Kadam
+<br>
 Mayur Gaddam
+<br>
 Suhas Dhakne
+<br>
 Akshat Ambulkar
+<br>
 Ranjan Kamunkar
 
 ## Notes
